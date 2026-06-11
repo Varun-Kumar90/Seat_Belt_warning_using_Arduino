@@ -64,9 +64,7 @@ The system continuously monitors two inputs:
 
 The complete Arduino source code is available in:
 
-```
-seat_belt_warning.ino
-```
+[seat_belt_warning.ino](seat_belt_warning.ino)
 
 ---
 
@@ -87,10 +85,10 @@ seat_belt_warning.ino
 ![Components List](images/components_list.jpg)
 
 **Circuit Schematic**
-![Circuit Schematic](images/circuit_schematic.jpg)
+![Circuit Schematic](images/Circuit_schematic.jpg)
 
 **Circuit Design in Tinkercad**
-![Circuit Design](images/circuit_design.jpg)
+![Circuit Design](images/Circuit_design.jpg)
 
 ---
 
