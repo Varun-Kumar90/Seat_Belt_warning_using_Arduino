@@ -88,7 +88,7 @@ The complete Arduino source code is available in:
 ![Circuit Schematic](images/Circuit_schematic.jpg)
 
 **Circuit Design in Tinkercad**
-![Circuit Design](images/Circuit_design.jpg)
+![Circuit Design](images/Circuit_diagram.jpg)
 
 ---
 
